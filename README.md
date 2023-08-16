@@ -1,4 +1,8 @@
-<h3 align="center">Frontend dev, Kotlin Lover and someone who wants to learn how all works</h3>
+
+### About me 
+
+Software dev, Kotlin and DSP lover and someone who wants to learn how all works.
+
 
 - 🔭 I’m currently working at **Bancolombia as Software Engineer**
 
