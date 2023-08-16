@@ -4,9 +4,10 @@
 Software dev, Kotlin and DSP lover and someone who wants to learn how all works.
 
 
-- 🔭 I’m currently working at **Bancolombia as Software Engineer**
 
-- 📫 How to reach me **cmilocarreno09@gmail.com**
+- 🔭 I am currently working at Bancolombia as Software Engineer
+
+- 📫 How to reach me: cmilocarreno09@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
